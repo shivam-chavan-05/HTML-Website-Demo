@@ -1,25 +1,21 @@
-# "HTML Project for Beginners"
+# 🌮 The Little Taco Shop – HTML Practice Project
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+Welcome to **The Little Taco Shop**, a simple static website created as part of my journey to master HTML. This project focuses primarily on building structured, semantic HTML documents with minimal CSS styling. It's a hands-on exercise in writing clean, accessible, and well-organized markup.
 
-This repository shares the completed code for the [YouTube Tutorial](https://youtu.be/T5PD8ofhiug). 
+---
 
-**Your Challenge:** Utilize the knowledge you have gained from the [HTML for Beginners](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6OlAwitnFUubtE93DO-l0vu) tutorial series to build a website for The Little Taco Shop. 
+## 📌 Project Objective
 
-**Directions:**
+- ✅ Practice and reinforce core HTML concepts
+- ✅ Understand semantic elements and structure
+- ✅ Build multi-page navigation using relative links
+- ✅ Use common HTML elements like tables, images, lists, and forms
+- ✅ Apply basic CSS for layout and visuals (only where necessary)
 
-- There are images of the 3 web pages you need to build in the examples folder. Use them as references for what you build.
+---
 
-- You should name your files: index.html, hours.html, and contact.html
+## 🛠️ Technologies Used
 
-- There is minimal CSS already available in css/styles.css. You need to link that file to your HTML files. 
-
-- All images are provided in the img folder.
-
-- If you need to find taco emojis, try [Emojipedia](https://emojipedia.org/taco/). 
-
-- A favicon is already included. You'll need to add it in the head section of each page.
-
-### Academic Honesty
-
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+- **HTML5** (Primary focus)
+- **CSS3** (Minimal, just for layout and presentation)
+- No JavaScript (to stay focused on HTML fundamentals)
